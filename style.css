@@ -3,7 +3,7 @@
 h3{
     color:plum;
 }
-*{
-    background-color: black;
+body{
+    background-color:var(--Djovana);
 
 }
