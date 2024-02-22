@@ -1,7 +1,7 @@
 :root{--djjfu:#f1b4fd;
 }
 h3{
-    color:plum;
+    color:rgb(27, 21, 27);
 }
 body{
     background-color:var(--djjfu);
