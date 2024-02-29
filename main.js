@@ -1,1 +1,1 @@
-const djj = document.querySelectorAll(".oi")
+const djj = document.querySelectorAll(".oi");
