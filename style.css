@@ -1,4 +1,4 @@
-:root{--djjfu:#74d3ff;
+:root{--djjfu:#82c4e2;
 }
 h3{
     color:rgb(54, 8, 179);
@@ -6,13 +6,6 @@ h3{
 }
 body{
     background-color:var(--djjfu);
-    .anta-regular {
-        font-family: "Anta", sans-serif;
-        font-weight: 400;
-        font-style: normal;
-      }
-      
-}
     
 
 }
