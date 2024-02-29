@@ -1,7 +1,7 @@
-:root{--djjfu:#f1b4fd;
+:root{--djjfu:#82c4e2;
 }
 h3{
-    color:rgb(135, 205, 233);
+    color:rgb(221, 101, 205);
 }
 body{
     background-color:var(--djjfu);
