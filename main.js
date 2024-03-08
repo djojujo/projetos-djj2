@@ -10,5 +10,3 @@ texto.textContent = 'não sei'
 }else{
 texto.textContent = respostas;
 }
-
-
