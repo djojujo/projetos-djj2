@@ -1,1 +1,1 @@
-var nome_Usuario = prompt('Você gosta de golfinho?');
+var respostas = prompt('Você gosta de golfinho?');
