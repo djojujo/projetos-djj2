@@ -1,1 +1,1 @@
-const djj = document.querySelectorAll(".oi");
+prompt('Você gosta de golfinho?');
