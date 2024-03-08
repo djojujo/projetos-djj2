@@ -1,7 +1,7 @@
 var respostas = '';
 var texto = document.querySelector('span');
 
-while(respostas == ''){
+while(respostas == ''|| respostas == null){
     respostas = prompt('Você gosta de golfinho?');
 }
 
