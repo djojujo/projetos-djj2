@@ -8,7 +8,7 @@ while(respostas == ''){ // || respostas == null
 if(respostas == null){
 texto.textContent = 'não sei'
 }else{
-    
+texto.textContent = respostas;
 }
 
-texto.textContent = respostas;
+
