@@ -1,9 +1,9 @@
-let numeroSecreto = Math.random;
+let numeroSecreto = Math.random() * 10;
 
-let chute = prompt('Escola um numero de 0 a 20');
+let chute = prompt('Escolha um numero de 0 a 20');
 
 while (chute == '' || chute == null){
-   chute = prompt('Escola um numero de 0 a 20');
+   chute = prompt('Escolha um numero de 0 a 20');
 
 }
 
