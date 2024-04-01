@@ -32,3 +32,7 @@ body{
 span{
 color: var(--colega);
 }
+
+.contagem-regresiva{
+  text-align: center;
+}
