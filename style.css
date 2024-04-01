@@ -42,3 +42,8 @@ color: var(--colega);
   padding: 05px;
   color: rgb(214, 124, 250);
 }
+
+.ativo{
+  border: 0;
+  border-bottom: 30px blueviolet;
+}
