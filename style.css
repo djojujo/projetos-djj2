@@ -8,7 +8,6 @@ h3{
 
 *{
   margin: 0;
-  padding: 0;
 }
 
 body{
@@ -36,7 +35,7 @@ color: var(--colega);
 
 .objetivos{
   padding: 05px;
-  color: rgb(0,0,139);
+  color: rgb(238, 0, 0);
   border: rgb(0, 0, 205);
   font-family: "Anta", sans-serif;
   font-weight: 400;
