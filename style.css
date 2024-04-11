@@ -41,7 +41,7 @@ color: var(--colega);
 .objetivos{
   padding: 05px;
   color: rgb(0,0,139);
-  border: 0;
+  border: rgb(0, 0, 205);
 }
 
 .ativo{
