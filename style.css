@@ -50,3 +50,7 @@ color: var(--colega);
 .aba-conteudo{
   display: none;
 }
+
+.ativa{
+  display: block;
+}
