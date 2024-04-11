@@ -46,3 +46,7 @@ color: var(--colega);
   border: 0;
   border-bottom: 3px solid blueviolet;
 }
+
+.aba-conteudo{
+  display: none;
+}
