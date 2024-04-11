@@ -11,6 +11,6 @@ botoes[djojujo].onclick = function(){
         textos[djj].classList.remove('ativa');
     }
 botoes[djojujo].classList.add('ativo');
-textos[djj].classList.add('ativa');
+textos[djojujo].classList.add('ativa');
 }
 }
