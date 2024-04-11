@@ -6,6 +6,9 @@ h3{
 
 }
 
+*{
+  margin: ;
+}
 
 body{
     background-color:var(--djjfu);
@@ -19,18 +22,8 @@ body{
     width: 20%;
 }
 
-.anta-regular {
-    font-family: "Anta", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
 
-.playfair-display-letras {
-  font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
+
 span{
 color: var(--colega);
 }
@@ -44,6 +37,9 @@ color: var(--colega);
   padding: 05px;
   color: rgb(0,0,139);
   border: rgb(0, 0, 205);
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .ativo{
