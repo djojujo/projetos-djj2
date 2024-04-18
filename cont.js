@@ -23,4 +23,4 @@ let minutos = segundos/60;
 let horas = minutos/60;
 let dias = horas/24;
 
-contadores[0].textContent = dias + " dias " horas + " horas " + minutos + " minutos " + segundos + " segundos ";
+contadores[0].textContent = dias + " dias " + hora + " horas " + minutos + " minutos " + segundos + " segundos ";
