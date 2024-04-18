@@ -2,7 +2,6 @@ const botoes = document.querySelectorAll('.objetivos');
 const textos = document.querySelectorAll('.aba-conteudo');
 
 
-
 for(let djojujo = 0; djojujo<botoes.length; djojujo++) {
 console.log(djojujo);
 botoes[djojujo].onclick = function(){
