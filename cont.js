@@ -14,3 +14,6 @@ botoes[djojujo].classList.add('ativo');
 textos[djojujo].classList.add('ativa');
 }
 }
+const contadores = document.querySelectorAll('.contador');
+
+contadores[0].textContent ='oi, tudo bem';
