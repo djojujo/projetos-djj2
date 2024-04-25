@@ -23,6 +23,8 @@ let tempoObjetivo4 = new Date ('2024-12-13T00:00:00');
 
 let tempos = [tempoObjetivo1. tempoObjetivo2, tempoObjetivo3, tempoObjetivo4];
 
+for(let djojujo = 0; djojujo< contadores.length; djojujo++)
+
 function CalculaTempo(tempoObjetivo){
 let tempoFinal = tempoObjetivo1 - tempoAtual;
 let segundos = Math.floor (tempoFinal/1000);
